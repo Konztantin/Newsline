@@ -1,0 +1,23 @@
+.news-wrap {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.news-body {
+  max-width: 400px;
+  height: auto;
+  padding: 0px 0px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.news-body-text {
+  width: auto;
+  line-height: 1.2;
+  height: 3.6em;
+  /* Рассчитываем высоту ( для 3 строк) */
+  overflow: hidden;
+}
