@@ -1,5 +1,19 @@
 # React + TypeScript + Vite
 
+Тестовое задание, использовал для написание приложения:
+React
+TS
+Vite(базовая настройка, для быстрой работы в режиме разработки)
+Scss(module)
+react-infinite-scroll(чтобы следить за скролом)
+antd(не использовал)
+redux toolkit(на этом приложение он не нужен, сделал базовую настройку на него)
+rtk query(для запросов на бэк, удобен, что умеет кэшировать данные)
+eslint(базовая настройка)
+prettier(для читаемости кода)
+
+приложение не стилизовал, сделал основную настройку на работу функционала 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
